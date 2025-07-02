@@ -1,0 +1,6 @@
+-> Install all the requirements
+
+-> Run the build_faiss_index.py file (If changes make in faq.json)
+
+-> Run main file (streamlit run app.py)
+
