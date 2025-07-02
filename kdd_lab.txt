@@ -1,0 +1,424 @@
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+EFFORTS DON'T BETRAY YOU
+Our team consists of competent individuals committed to finding solutions to real-world problems.
+About Us
+
+The Knowledge Discovery & Data Science (KDD) Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It offers opportunities to conduct advanced and innovative research in the aforementioned fields. We work diligently to identify and resolve algorithmic challenges for a vast array of applications and datasets, such as social networks, images and videos, large-scale databases, health informatics, etc.
+Expertise
+Expertise
+
+Our team specializes in th following domains
+Data Science
+
+Data science is an interdisciplinary field that employs scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data, and to apply this knowledge and actionable insights to a wide variety of application domains.
+Deep Learning
+
+Deep learning is a subset of machine learning techniques based on artificial neural networks and representation learning. Supervised, semi-supervised, or unsupervised learning is possible.
+Machine Learning
+
+Machine learning is the study of computer algorithms that can improve themselves automatically through the use of experience and data. Considered a component of artificial intelligence.
+Big Data
+
+Big data is the study of methods to analyze, systematically extract information from, and otherwise deal with data sets that are too large or complex to be processed by conventional data-processing software.
+Fun Facts
+How about some fun facts about KDD FAST-NUCES ?
+0
+
+Total FYPs
+0
+
+Funded Projects
+0
+
+Team members
+0
+
+Publications
+0
+
+Alumni
+Contact
+Contact
+Location:
+
+National University of Computer and Emerging Sciences (FAST-NUCES), A.K. Brohi Road, H-11/4
+Email:
+
+kdd.lab@nu.edu.pk
+Call:
+
+TBD
+Your Name
+Your Email
+Subject
+Message
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved
+
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+EFFORTS DON'T BETRAY YOU
+Our team consists of competent individuals committed to finding solutions to real-world problems.
+About Us
+
+The Knowledge Discovery & Data Science (KDD) Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It offers opportunities to conduct advanced and innovative research in the aforementioned fields. We work diligently to identify and resolve algorithmic challenges for a vast array of applications and datasets, such as social networks, images and videos, large-scale databases, health informatics, etc.
+Expertise
+Expertise
+
+Our team specializes in th following domains
+Data Science
+
+Data science is an interdisciplinary field that employs scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data, and to apply this knowledge and actionable insights to a wide variety of application domains.
+Deep Learning
+
+Deep learning is a subset of machine learning techniques based on artificial neural networks and representation learning. Supervised, semi-supervised, or unsupervised learning is possible.
+Machine Learning
+
+Machine learning is the study of computer algorithms that can improve themselves automatically through the use of experience and data. Considered a component of artificial intelligence.
+Big Data
+
+Big data is the study of methods to analyze, systematically extract information from, and otherwise deal with data sets that are too large or complex to be processed by conventional data-processing software.
+Fun Facts
+How about some fun facts about KDD FAST-NUCES ?
+0
+
+Total FYPs
+0
+
+Funded Projects
+0
+
+Team members
+0
+
+Publications
+0
+
+Alumni
+Contact
+Contact
+Location:
+
+National University of Computer and Emerging Sciences (FAST-NUCES), A.K. Brohi Road, H-11/4
+Email:
+
+kdd.lab@nu.edu.pk
+Call:
+
+TBD
+Your Name
+Your Email
+Subject
+Message
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved
+
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+EFFORTS DON'T BETRAY YOU
+Our team consists of competent individuals committed to finding solutions to real-world problems.
+About Us
+
+The Knowledge Discovery & Data Science (KDD) Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It offers opportunities to conduct advanced and innovative research in the aforementioned fields. We work diligently to identify and resolve algorithmic challenges for a vast array of applications and datasets, such as social networks, images and videos, large-scale databases, health informatics, etc.
+Expertise
+Expertise
+
+Our team specializes in th following domains
+Data Science
+
+Data science is an interdisciplinary field that employs scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data, and to apply this knowledge and actionable insights to a wide variety of application domains.
+Deep Learning
+
+Deep learning is a subset of machine learning techniques based on artificial neural networks and representation learning. Supervised, semi-supervised, or unsupervised learning is possible.
+Machine Learning
+
+Machine learning is the study of computer algorithms that can improve themselves automatically through the use of experience and data. Considered a component of artificial intelligence.
+Big Data
+
+Big data is the study of methods to analyze, systematically extract information from, and otherwise deal with data sets that are too large or complex to be processed by conventional data-processing software.
+Fun Facts
+How about some fun facts about KDD FAST-NUCES ?
+0
+
+Total FYPs
+0
+
+Funded Projects
+0
+
+Team members
+0
+
+Publications
+0
+
+Alumni
+Contact
+Contact
+Location:
+
+National University of Computer and Emerging Sciences (FAST-NUCES), A.K. Brohi Road, H-11/4
+Email:
+
+kdd.lab@nu.edu.pk
+Call:
+
+TBD
+Your Name
+Your Email
+Subject
+Message
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved
+
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+Mulazmat
+
+    Home
+    Mulazmat
+
+Description
+
+The lab has won a grant from National Center for Artificial Intelligence (NCAI) of Rs. 14.665 Million on the project titled “Re-Designing E- recruitment using AI for Temporal Analysis” in March, 2021. The main idea of this project is to develop Artificial Intelligence based algorithms to assist E-Recruiters to efficiently select right candidates for right jobs. In this way, real and deserving talent will be more likely to get the chance of interview with the relevant employers. The project is being developed with a team comprising of Data Scientists, Software Developers, MS and BS students.
+Request Demo
+Project information
+
+    Name: Re-Designing E-recruitment using AI for Temporal Analysis
+    Funding Agency: National Center for Artificial Intelligence (NCAI)
+    Duration: March, 2021 – September, 2022
+    Funding: PKR 14.665 Million
+
+Features
+
+    Automated Resume Parsing
+    Candidate Skill Enrichment
+    Efficient Ranking Algorithm
+    Automated Feature Importance Based On Trends Generated By User Feedback:
+
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved
+
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+KDD Members
+
+    Home
+    Members
+
+Active Members
+Active Members
+
+Current Members of Knowledge Discovery snd Data Science (KDD) Lab
+Dr. Faisal Cheema
+
+Director and PI
+Mr. Shoaib Mehboob
+
+Head
+Ms. Khadija Mehmood
+
+Lecturer and Co-Head
+Ms. Maryam Shahbaz
+
+Lecturer and Researcher
+Dr. Shujaat Hussain
+
+Co-Founder and Head
+Dr. Kifayat Ullah Khan
+
+Founder and Director
+Hira Mastoor
+
+Instructor and Researcher
+Sana Razzaq
+
+Instructor and Researcher
+Kanwal Naz
+
+Researcher
+Muhammad Khawar Abbas
+
+Researcher
+Muhammad Talha Ilyas
+
+Researcher
+Azka Asim
+
+FYP Student
+Muhammad Usman
+
+Internee
+Alumni
+Alumni
+
+Honorable mentions
+
+Mohammad Daniyal Shaiq
+Developer and RA
+
+Hira Sajid
+Research Assistant
+
+Sarah Kiyani
+Research Assistant
+
+Saeed Rehman
+Team Lead
+
+Talha Nazar
+RA
+
+Sidra Tariq
+RA
+
+M. D. Ahmed Cheema
+Developer and RA
+
+Muhammad Abrar Khalid
+Team Lead
+
+Saad Ali Qureshi
+Team Lead
+
+Abdul Hanan Minhas
+Team Lead
+
+Mohammad Daniyal Shaiq
+Developer and RA
+
+Hira Sajid
+Research Assistant
+
+Sarah Kiyani
+Research Assistant
+
+Saeed Rehman
+Team Lead
+
+Talha Nazar
+RA
+
+Sidra Tariq
+RA
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved
+
+
+Knowledge Discovery and Data Science Lab
+
+    Home
+    About
+    Expertise
+    Mulazmat
+    Team
+    Contact
+
+EFFORTS DON'T BETRAY YOU
+Our team consists of competent individuals committed to finding solutions to real-world problems.
+About Us
+
+The Knowledge Discovery & Data Science (KDD) Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It offers opportunities to conduct advanced and innovative research in the aforementioned fields. We work diligently to identify and resolve algorithmic challenges for a vast array of applications and datasets, such as social networks, images and videos, large-scale databases, health informatics, etc.
+Expertise
+Expertise
+
+Our team specializes in th following domains
+Data Science
+
+Data science is an interdisciplinary field that employs scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data, and to apply this knowledge and actionable insights to a wide variety of application domains.
+Deep Learning
+
+Deep learning is a subset of machine learning techniques based on artificial neural networks and representation learning. Supervised, semi-supervised, or unsupervised learning is possible.
+Machine Learning
+
+Machine learning is the study of computer algorithms that can improve themselves automatically through the use of experience and data. Considered a component of artificial intelligence.
+Big Data
+
+Big data is the study of methods to analyze, systematically extract information from, and otherwise deal with data sets that are too large or complex to be processed by conventional data-processing software.
+Fun Facts
+How about some fun facts about KDD FAST-NUCES ?
+0
+
+Total FYPs
+0
+
+Funded Projects
+0
+
+Team members
+0
+
+Publications
+0
+
+Alumni
+Contact
+Contact
+Location:
+
+National University of Computer and Emerging Sciences (FAST-NUCES), A.K. Brohi Road, H-11/4
+Email:
+
+kdd.lab@nu.edu.pk
+Call:
+
+TBD
+Your Name
+Your Email
+Subject
+Message
+Knowledge Discovery and Data Science (KDD) Lab
+
+“If you can’t explain it simply, you don’t understand it well enough.” — Albert Einstein
+© Copyright KDD. All Rights Reserved

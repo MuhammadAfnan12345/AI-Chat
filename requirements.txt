@@ -1,0 +1,7 @@
+streamlit
+flask
+speechrecognition
+pyaudio
+google-cloud-aiplatform
+pyttsx3
+requests
