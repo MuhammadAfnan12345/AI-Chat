@@ -1,6 +1,7 @@
 [
     {
         "question": "hello",
+
         "answer": "Hello! I'm your FAST-NUCES & KDD Lab assistant. How can I help you today?"
     },
     {
@@ -70,6 +71,75 @@
     {
         "question": "i didn't understand",
         "answer": "Sorry! Could you rephrase your question about FAST-NUCES or the KDD Lab?"
+    },
+    {
+        "question": "hi how are you",
+        "answer": "Hi there! What would you like to know about FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "hey",
+        "answer": "Hey! Feel free to ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "how are you",
+        "answer": "I’m just a bot, but I’m here and ready to help with your FAST‑NUCES or KDD Lab questions!"
+    },
+    {
+        "question": "thank you",
+        "answer": "You’re welcome! Let me know if there’s anything else you’d like to ask."
+    },
+    {
+        "question": "thanks",
+        "answer": "No problem—happy to help!"
+    },
+    {
+        "question": "thank you very much",
+        "answer": "Glad I could help! Any other questions about FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning! What can I help you with today regarding FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "good afternoon",
+        "answer": "Good afternoon! Ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "good evening",
+        "answer": "Good evening! How can I assist you with FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Feel free to come back if you have more questions about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "goodbye",
+        "answer": "Goodbye! I’m here whenever you need info on FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "how is it going",
+        "answer": "All systems operational! Ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "what’s up",
+        "answer": "I’m here to help with FAST‑NUCES and KDD Lab questions. What would you like to know?"
+    },
+    {
+        "question": "help",
+        "answer": "Sure—ask me questions about FAST‑NUCES (admissions, departments, contacts) or the KDD Lab (research, projects, events)."
+    },
+    {
+        "question": "see you later",
+        "answer": "See you! Drop by anytime for FAST‑NUCES & KDD Lab info."
+    },
+    {
+        "question": "have a nice day",
+        "answer": "Thanks! You too—feel free to return for more FAST‑NUCES or KDD Lab questions."
+    },
+    {
+        "question": "i didn’t understand",
+        "answer": "Sorry! Could you rephrase your question about FAST‑NUCES or the KDD Lab?"
+
     },
 
     {
