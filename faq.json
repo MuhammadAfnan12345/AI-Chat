@@ -1,0 +1,1274 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! I’m your FAST‑NUCES & KDD Lab assistant. How can I help you today?"
+    },
+    {
+        "question": "hi how are you",
+        "answer": "Hi there! What would you like to know about FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "hey",
+        "answer": "Hey! Feel free to ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "how are you",
+        "answer": "I’m just a bot, but I’m here and ready to help with your FAST‑NUCES or KDD Lab questions!"
+    },
+    {
+        "question": "thank you",
+        "answer": "You’re welcome! Let me know if there’s anything else you’d like to ask."
+    },
+    {
+        "question": "thanks",
+        "answer": "No problem—happy to help!"
+    },
+    {
+        "question": "thank you very much",
+        "answer": "Glad I could help! Any other questions about FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning! What can I help you with today regarding FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "good afternoon",
+        "answer": "Good afternoon! Ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "good evening",
+        "answer": "Good evening! How can I assist you with FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Feel free to come back if you have more questions about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "goodbye",
+        "answer": "Goodbye! I’m here whenever you need info on FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "how is it going",
+        "answer": "All systems operational! Ask me anything about FAST‑NUCES or the KDD Lab."
+    },
+    {
+        "question": "what’s up",
+        "answer": "I’m here to help with FAST‑NUCES and KDD Lab questions. What would you like to know?"
+    },
+    {
+        "question": "help",
+        "answer": "Sure—ask me questions about FAST‑NUCES (admissions, departments, contacts) or the KDD Lab (research, projects, events)."
+    },
+    {
+        "question": "see you later",
+        "answer": "See you! Drop by anytime for FAST‑NUCES & KDD Lab info."
+    },
+    {
+        "question": "have a nice day",
+        "answer": "Thanks! You too—feel free to return for more FAST‑NUCES or KDD Lab questions."
+    },
+    {
+        "question": "i didn’t understand",
+        "answer": "Sorry! Could you rephrase your question about FAST‑NUCES or the KDD Lab?"
+    },
+    {
+        "question": "What are the university's admission requirements?",
+        "answer": "Please refer to the admissions section of the university website for detailed information on admission requirements, including academic transcripts, standardized test scores, and application deadlines."
+    },
+    {
+        "question": "What student support services are available?",
+        "answer": "The university offers a range of support services, such as academic advising, career counseling, health services, and disability services.  Details on each service and how to access them can be found on the student support page of the university website."
+    },
+    {
+        "question": "What are the eligibility criteria for admission to FAST National University?",
+        "answer": "Please refer to the 'Eligibility Criteria' section on the FAST National University admissions page for detailed information on admission requirements."
+    },
+    {
+        "question": "What is the fee structure for the different programs offered at FAST National University?",
+        "answer": "The fee structure varies depending on the program.  More information can be found in the 'Fee Structure' section or the 'Prospectus 2024' on the university website."
+    },
+    {
+        "question": "What financial aid options are available for students at NUCES?",
+        "answer": "NUCES offers scholarships and interest-free loans to support students.  More than 2000 students currently receive financial assistance."
+    },
+    {
+        "question": "What are the admission requirements and application process for Fall 2025?",
+        "answer": "Information regarding admission requirements and the application process for Fall 2025 can be found by clicking on the 'Apply Now' link.  A downloadable prospectus may also be available."
+    },
+    {
+        "question": "What is the National University of Computer and Emerging Sciences (NUCES) and how was it founded?",
+        "answer": "NUCES is a premier Pakistani university, federally chartered in July 2000, known for its impact on the software and other industries. It has five campuses across Pakistan."
+    },
+    {
+        "question": "How is NUCES funded?",
+        "answer": "NUCES receives funding from various sources, including Rs. 60 million from FAST and Rs. 40 million from other donors."
+    },
+    {
+        "question": "What kind of research is conducted at the university's research wings?",
+        "answer": "The research wings conduct cutting-edge research with a direct impact on Pakistan's social, economic, and technological needs."
+    },
+    {
+        "question": "What is the university's long-term goal?",
+        "answer": "The university's vision is to become a globally recognized research university in Pakistan within the next decade."
+    },
+    {
+        "question": "What cities does FAST NUCES have campuses in?",
+        "answer": "FAST NUCES has campuses in Chiniot, Faisalabad, Islamabad, Karachi, Lahore, Multan, and Peshawar."
+    },
+    {
+        "question": "How can I learn more about FAST NUCES?",
+        "answer": "You can explore FAST NUCES through their featured videos."
+    },
+    {
+        "question": "When is the application deadline for the Spring 2025 admission?",
+        "answer": "The application deadline for Spring 2025 admission is January 11, 2025."
+    },
+    {
+        "question": "What is the duration of the Bachelor of Business Administration program?",
+        "answer": "The BBA program is a 4-year program."
+    },
+    {
+        "question": "What kind of academic background is needed to be accepted into the BBA program?",
+        "answer": "The program is designed for students with excellent academic records and high potential for success.  A strong academic history is required."
+    },
+    {
+        "question": "What skills will I gain from completing the BBA program?",
+        "answer": "The program develops a rich blend of general management skills, including communication, decision-making, leadership, teamwork, and quantitative methods, in addition to a strong foundation in general education."
+    },
+    {
+        "question": "What are the key communication skills developed in the BBA program?",
+        "answer": "The BBA program focuses on developing effective and professional communication skills, including creating written and oral statements for diverse global audiences."
+    },
+    {
+        "question": "How does the BBA program prepare students for decision-making in complex situations?",
+        "answer": "The program trains students to identify, evaluate, and utilize relevant information for decision-making, employing critical thinking skills to solve problems in uncertain environments."
+    },
+    {
+        "question": "What leadership styles are covered in this course, and how will we get practice applying them?",
+        "answer": "The course will cover various leadership styles.  Through practical exercises and potentially group projects, you'll have opportunities to practice applying these styles in simulated scenarios, adapting your approach based on the specific situation."
+    },
+    {
+        "question": "How will the importance of teamwork and group dynamics be demonstrated in this course?",
+        "answer": "The course will likely involve group projects and activities designed to highlight the benefits of effective teamwork and collaboration in achieving common goals.  You will be assessed on your ability to work effectively within a team."
+    },
+    {
+        "question": "What are some examples of ethical and social diversity issues within organizations, and how can feasible solutions be proposed?",
+        "answer": "Examples include issues of bias in hiring practices, lack of representation in leadership, or unequal pay.  Feasible solutions might involve implementing blind resume reviews, establishing diversity and inclusion initiatives, or conducting pay equity audits."
+    },
+    {
+        "question": "How will this course help me use computing tools and infrastructure to apply business knowledge?",
+        "answer": "This course will equip you with the skills to use computer-based information systems to analyze business data, create presentations, and utilize software to enhance operational efficiency and decision-making processes. You will learn to leverage computing infrastructure for practical applications in business contexts."
+    },
+    {
+        "question": "What is the minimum number of credit hours required to graduate with a BBA degree?",
+        "answer": "A minimum of 130 credit hours is required, including all core courses."
+    },
+    {
+        "question": "What is the minimum CGPA needed to earn a BBA degree?",
+        "answer": "A minimum CGPA of 2.00 is required for graduation."
+    },
+    {
+        "question": "What challenges does the BS Accounting & Finance program address?",
+        "answer": "The program prepares students for challenges posed by shifting economic conditions, intense competition for resources, and questionable business practices in financial management."
+    },
+    {
+        "question": "Why is the BS Accounting & Finance program important now?",
+        "answer": "It's gained greater importance due to the recent global financial crisis, equipping students to navigate the complexities of financial management in a volatile environment."
+    },
+    {
+        "question": "What skills will I gain from the BS Accounting & Finance program?",
+        "answer": "The program provides a broad business and management foundation, and develops your quantitative and analytical skills for ethical and astute financial management."
+    },
+    {
+        "question": "How does this program prepare students for success in the current business climate?",
+        "answer": "The program emphasizes prudent financial management, a skill highlighted as crucial for business success, especially in times of crisis."
+    },
+    {
+        "question": "What career paths are available after studying this program?",
+        "answer": "Several pathways are available, including audit, taxation, budget analysis, financial accounting, and management accounting."
+    },
+    {
+        "question": "Can you give me examples of the types of jobs I could get with this qualification?",
+        "answer": "Potential jobs include roles in audit, tax, budget analysis, financial accounting, and management accounting."
+    },
+    {
+        "question": "What is the minimum CGPA required to graduate with a BS in Accounting & Finance?",
+        "answer": "A minimum CGPA of 2.00 is required."
+    },
+    {
+        "question": "How many credit hours are needed to graduate with a BS in Artificial Intelligence?",
+        "answer": "At least 133 credit hours are required, including all core courses."
+    },
+    {
+        "question": "What skills will I gain from this program?",
+        "answer": "This program develops skills in business knowledge, data analysis, statistical techniques, and computer applications, all applied to solving real-world business problems across various departments like management, HRM, finance, operations, and marketing."
+    },
+    {
+        "question": "What types of problems will I be equipped to solve after completing this program?",
+        "answer": "The program prepares you to tackle pressing challenges faced by organizations in management, human resource management, finance, operations, and marketing, leveraging your data analysis and business expertise."
+    },
+    {
+        "question": "What kind of skills will I develop in this program?",
+        "answer": "This program develops a range of skills including business management, technology, data analytics, communication, soft skills, analytical reasoning, ethical decision-making, and problem-solving."
+    },
+    {
+        "question": "Is this program primarily theoretical or practical?",
+        "answer": "The program follows a hands-on approach, emphasizing practical application of business management, technology, and data analytics knowledge."
+    },
+    {
+        "question": "What types of careers are available to graduates with a BS BA degree in big data and analytics?",
+        "answer": "Graduates can pursue careers such as business analysts, operations analysts, people analysts, financial analysts, and market or consumer analysts."
+    },
+    {
+        "question": "Is there a high demand for graduates with this degree?",
+        "answer": "Yes, the field of big data and analytics is rapidly growing, creating a high demand for skilled professionals."
+    },
+    {
+        "question": "How many credit hours are required to graduate with a BS in Business Analytics?",
+        "answer": "At least 131 credit hours are required, including all core courses."
+    },
+    {
+        "question": "Are there specific courses I *must* take to get my BS in Business Analytics?",
+        "answer": "Yes, all core courses are mandatory for graduation."
+    },
+    {
+        "question": "What is the minimum CGPA required for the Bachelor of Science (Computer Engineering) program?",
+        "answer": "A minimum CGPA of 2.00 is required."
+    },
+    {
+        "question": "What career opportunities are available after completing the Bachelor of Science in Computer Engineering program?",
+        "answer": "This degree opens careers in various areas of Electrical Engineering."
+    },
+    {
+        "question": "What career paths are typically pursued by Computer Engineering graduates?",
+        "answer": "Graduates often find careers in the telecom industry, electronics, power sector, embedded system design, and software programming."
+    },
+    {
+        "question": "How many credit hours are required to graduate with a Bachelor of Science in Computer Engineering?",
+        "answer": "A minimum of 136 credit hours is required, including all specified core courses."
+    },
+    {
+        "question": "What is the minimum CGPA required to graduate with a Bachelor of Science in Computer Science?",
+        "answer": "A minimum CGPA of 2.00 is required to graduate with a BS in Computer Science."
+    },
+    {
+        "question": "What types of careers are available to graduates of the Bachelor of Science in Computer Science program?",
+        "answer": "Graduates can pursue careers as software engineers, programmers, web developers, games programmers, or computer graphic designers."
+    },
+    {
+        "question": "What are the core subjects covered in the first year of the Civil Engineering program?",
+        "answer": "The first year focuses on fundamental Civil Engineering principles, along with supporting courses in mathematics and physics."
+    },
+    {
+        "question": "When do students select a specialization in Civil Engineering?",
+        "answer": "Students choose a specialization stream in their senior year."
+    },
+    {
+        "question": "What kind of communication skills courses are offered to help engineering graduates improve their job prospects?",
+        "answer": "The university offers courses in communication skills designed to prepare students for challenging work environments and improve their competitiveness in the job market."
+    },
+    {
+        "question": "How does the curriculum address the importance of cost-effective engineering solutions?",
+        "answer": "The program emphasizes the need for cost-effective solutions, implying that this aspect is integrated into various engineering courses and possibly highlighted through projects or case studies."
+    },
+    {
+        "question": "What career paths are available after completing the BS in Civil Engineering program?",
+        "answer": "This degree program opens careers in various areas of Civil Engineering."
+    },
+    {
+        "question": "How many credit hours are required to graduate with a BS in Civil Engineering?",
+        "answer": "A minimum of 138 credit hours are required, including all specified core courses."
+    },
+    {
+        "question": "What is the minimum CGPA required to graduate with a Bachelor of Science degree in any of the mentioned programs (Cyber Security, Data Science, or Electrical Engineering)?",
+        "answer": "A minimum CGPA of 2.00 is required for graduation in all three mentioned Bachelor of Science programs."
+    },
+    {
+        "question": "How many credit hours are needed to graduate with a BS in Cyber Security or Data Science?",
+        "answer": "At least 133 credit hours are required for graduation with a BS in Cyber Security or Data Science."
+    },
+    {
+        "question": "What types of jobs can I get after graduating from this program?",
+        "answer": "This program prepares graduates for entry-level positions in corporate and government settings, as well as for graduate studies worldwide."
+    },
+    {
+        "question": "What skills will I develop in this program?",
+        "answer": "Graduates will be able to conceive, formulate, and communicate solutions to technological problems, and will be prepared to be responsible and productive members of society committed to its betterment through their knowledge and skills."
+    },
+    {
+        "question": "What career paths are available after completing a BS in Electrical Engineering?",
+        "answer": "This degree offers diverse career options, including specializations in telecommunications or computer engineering, leading to roles in the telecommunications industry, embedded system design, or software programming."
+    },
+    {
+        "question": "What are the degree requirements for a BS in Electrical Engineering?",
+        "answer": "A minimum of 138 credit hours must be completed, including all specified core courses, to receive the BS (Electrical Engineering) degree."
+    },
+    {
+        "question": "What CGPA is required to pursue the Bachelor of Science in Financial Technology?",
+        "answer": "A CGPA of at least 2.00 is required."
+    },
+    {
+        "question": "What is Financial Technology (FinTech) and why is it important?",
+        "answer": "FinTech uses technology to improve financial activity, disrupting traditional financial services through technology, algorithms, data, and mobile applications. It's now a globally important industry."
+    },
+    {
+        "question": "What specific skills are most in-demand within Pakistan's growing FinTech sector?",
+        "answer": "The FinTech industry in Pakistan has a high demand for professionals with expertise in finance, mathematics, programming, analytics, data science, applied statistics, and regulatory compliance."
+    },
+    {
+        "question": "What initiatives are supporting the growth of the FinTech ecosystem in Pakistan?",
+        "answer": "The formation of Fintech Associations and regulatory flexibility are key initiatives fostering a supportive environment for FinTech companies to flourish in Pakistan."
+    },
+    {
+        "question": "What is the significance of FAST-NUCES Islamabad offering a BS in Financial Technology?",
+        "answer": "FAST-NUCES Islamabad's BS in Financial Technology program addresses the growing need for specialized professionals in the field, making it a pioneering program in the country."
+    },
+    {
+        "question": "Why did FAST-NUCES Islamabad decide to introduce a BS degree in Financial Technology?",
+        "answer": "The increasing demand for skilled individuals in the financial technology sector prompted FAST-NUCES Islamabad, as a technology-focused university, to establish this specialized program."
+    },
+    {
+        "question": "What types of modern tools will I learn to use in this program?",
+        "answer": "The program focuses on equipping students with programming and technological skills applicable to improving financial activities and creating new financial applications, processes, products, or business models.  Specific tools aren't listed, but the emphasis is on modern and relevant technologies for the finance industry."
+    },
+    {
+        "question": "Is this program designed for students with prior programming experience?",
+        "answer": "The provided text doesn't specify the required programming background.  To determine if prior experience is necessary, further inquiry with the program's administrators is recommended."
+    },
+    {
+        "question": "What are some potential career paths I could explore after graduating from the FinTech program?",
+        "answer": "Graduates often pursue careers in investment banking, wealth management, international finance, commercial banking, insurance, information technology, or social entrepreneurship, among other options."
+    },
+    {
+        "question": "Does the FinTech program prepare students for careers in areas like insurance or social entrepreneurship?",
+        "answer": "Yes, the program provides a foundation applicable to a wide range of sectors, including insurance and social entrepreneurship, in addition to more traditional finance roles."
+    },
+    {
+        "question": "What types of jobs in the financial industry are available to graduates with the skills mentioned?",
+        "answer": "Graduates can find work in FinTech startups (focusing on areas like alternative lending, cryptocurrency, blockchain, open banking, insurtech, Robo-advisement, machine learning, data mining, and cybersecurity) or traditional financial services companies needing staff with technical skills to update existing practices or create new technology-based processes."
+    },
+    {
+        "question": "Are there opportunities for graduates in both new and established financial companies?",
+        "answer": "Yes, graduates with these skills are sought after by both FinTech startups and established traditional financial services companies."
+    },
+    {
+        "question": "What are the minimum requirements for graduating with a BS in FinTech?",
+        "answer": "To graduate with a BS in FinTech, you need at least 134 credit hours, including all core courses, and a minimum CGPA of 2.00."
+    },
+    {
+        "question": "What kind of jobs can I get with a BS in Software Engineering?",
+        "answer": "A BS in Software Engineering opens doors to various roles such as software quality assurance engineer, systems programmer, embedded software engineer, software architect, Chief Technology Officer, Chief Information Officer, User Interface designer, Information Systems manager, or computer graphic designer."
+    },
+    {
+        "question": "What are the minimum credit hours and CGPA required to graduate with a BS in Software Engineering?",
+        "answer": "A minimum of 133 credit hours and a CGPA of at least 2.00 are required for the BS in Software Engineering degree."
+    },
+    {
+        "question": "Who is the MBA program designed for?",
+        "answer": "The MBA program is designed for Business Graduates and Managers, as well as Engineers, Scientists, Doctors, Social Scientists, Lawyers, and professional graduates from Liberal Arts disciplines."
+    },
+    {
+        "question": "What kind of background is suitable for the FAST MBA program?",
+        "answer": "The FAST MBA is designed for individuals with 16 years of education, including those with backgrounds in BBA, BS (Accounting & Finance), MA (Economics), Engineering, Science, Medicine, Social Sciences, Law, and Liberal Arts."
+    },
+    {
+        "question": "How many credit hours are required to complete the FAST MBA program?",
+        "answer": "The FAST MBA program requires 60 credit hours."
+    },
+    {
+        "question": "What specific management practices are covered in this program?",
+        "answer": "The content mentions an in-depth understanding of the dynamics of management practices, but doesn't specify which ones.  More information is needed to answer this question completely."
+    },
+    {
+        "question": "How does the program address the implications of globalization?",
+        "answer": "The program explores the implications of a rapidly globalizing world on management practices, though the specific approaches aren't detailed."
+    },
+    {
+        "question": "What specific areas of data science does the KDD Lab focus on?",
+        "answer": "The KDD Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What kind of work does the KDD Lab team do?",
+        "answer": "The team is committed to finding solutions to real-world problems using their expertise in various data science fields."
+    },
+    {
+        "question": "What types of research projects are currently underway in this department?",
+        "answer": "The department conducts advanced research in various areas, including algorithmic challenges related to social networks, images and videos, large-scale databases, and health informatics."
+    },
+    {
+        "question": "What kinds of datasets are used in the research conducted here?",
+        "answer": "Research utilizes a wide range of datasets, including those from social networks, images and videos, and large-scale databases, as well as datasets from the field of health informatics."
+    },
+    {
+        "question": "What is the difference between data science and deep learning?",
+        "answer": "Data science is a broad field encompassing various techniques to extract insights from data. Deep learning is a specific subset of machine learning, using artificial neural networks, that falls under the data science umbrella."
+    },
+    {
+        "question": "What types of data does the data science team work with?",
+        "answer": "The team works with both structured and unstructured data."
+    },
+    {
+        "question": "What is the difference between supervised, semi-supervised, and unsupervised machine learning?",
+        "answer": "The difference lies in the type of data used to train the algorithms. Supervised learning uses labeled data (input and desired output), semi-supervised learning uses a mix of labeled and unlabeled data, and unsupervised learning uses only unlabeled data."
+    },
+    {
+        "question": "How does machine learning relate to big data?",
+        "answer": "Big data provides the massive datasets that machine learning algorithms need to learn effectively.  Machine learning techniques are often used to analyze and extract valuable information from big data."
+    },
+    {
+        "question": "What is the email address for the KDD FAST-NUCES lab?",
+        "answer": "kdd.lab@nu.edu.pk"
+    },
+    {
+        "question": "Where is the KDD FAST-NUCES lab located?",
+        "answer": "National University of Computer and Emerging Sciences (FAST-NUCES), A.K. Brohi Road, H-11/4"
+    },
+    {
+        "question": "What research areas does the KDD Lab focus on?",
+        "answer": "The KDD Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What kind of team works in the KDD Lab?",
+        "answer": "The team consists of competent individuals committed to finding solutions to real-world problems."
+    },
+    {
+        "question": "What types of research projects are currently underway?",
+        "answer": "The university conducts advanced research in areas like algorithmic challenges applied to social networks, images and videos, large-scale databases, and health informatics."
+    },
+    {
+        "question": "What kinds of datasets are used in the research?",
+        "answer": "Researchers utilize a wide variety of datasets including social networks, images, videos, and large-scale databases, as well as data from the health informatics field."
+    },
+    {
+        "question": "What is the difference between data science and deep learning?",
+        "answer": "Data science is a broad field encompassing various techniques to extract insights from data. Deep learning is a specific subset of machine learning, and thus also a subset of data science, that uses artificial neural networks for analysis."
+    },
+    {
+        "question": "What types of data does the Data Science team work with?",
+        "answer": "The Data Science team works with both structured and unstructured data."
+    },
+    {
+        "question": "What is the difference between supervised, semi-supervised, and unsupervised machine learning?",
+        "answer": "The difference lies in the type of data used for training. Supervised learning uses labeled data (input and desired output), semi-supervised learning uses a mix of labeled and unlabeled data, and unsupervised learning uses only unlabeled data."
+    },
+    {
+        "question": "How does machine learning relate to big data?",
+        "answer": "Big data provides the massive datasets that machine learning algorithms need to learn effectively.  Machine learning techniques are often crucial for analyzing and extracting useful information from these large and complex datasets."
+    },
+    {
+        "question": "What research areas does the KDD Lab focus on?",
+        "answer": "The KDD Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What kind of team is behind the KDD Lab?",
+        "answer": "The team consists of competent individuals committed to finding solutions to real-world problems."
+    },
+    {
+        "question": "What types of research projects are available in this program?",
+        "answer": "The program offers advanced and innovative research opportunities in areas like algorithmic challenges related to social networks, images and videos, large-scale databases, and health informatics."
+    },
+    {
+        "question": "What kinds of datasets are used in the research?",
+        "answer": "Researchers work with a wide variety of datasets, including social networks, images, videos, and large-scale databases, as well as those related to health informatics."
+    },
+    {
+        "question": "What is the difference between data science and deep learning?",
+        "answer": "Data science is a broad field encompassing various techniques to extract insights from data. Deep learning is a specific subset of machine learning, focusing on artificial neural networks, used within the broader context of data science."
+    },
+    {
+        "question": "What specific application domains are covered under your data science expertise?",
+        "answer": "The provided text doesn't specify particular application domains, only that data science is applied to 'a wide variety of application domains'."
+    },
+    {
+        "question": "What is location of fast islamabad campus?",
+        "answer": "FAST NUCES is located in H-11/4 in Islamabad."
+    },
+    {
+        "question": "What is fee structure of Fast?",
+        "answer": "Admission Fee of Rs 30,000 (w.e.f Fall 2024 semester) is payable once at the time of admission.A refundable security deposit of Rs 20,000 is also payable at the time of admission. And 11,000 PKR per credit hour."
+    },
+    {
+        "question": "What is the tuition fee of Fast?",
+        "answer": "Currently the fee is 11,000 PKR per credit hour,Tuition Fee is payable in full before the start of each semester. It is subject to revision every year."
+    },
+    {
+        "question": "Why choose Fast?",
+        "answer": "Fast is consistently ranked Top in Computer Science and IT and HEC."
+    },
+    {
+        "question": "Does Fast provide internship for students?",
+        "answer": "Fast students can apply for internship in Fast in following labs (KDD Lab, Data Insight Lab, Genesys Lab, PCN Lab, AIM Lab)"
+    },
+    {
+        "question": "What Undergraduate and Graduate programs are offered at fast?",
+        "answer": "Undergraduate -> (BS/BBA) | Graduate -> (MS/MBA/MPhil) | Doctoral -> (Phd)"
+    },
+    {
+        "question": "Are there any new programs starting in 2025?",
+        "answer": "Fast is Launching New Programs in Multan campus (BSCS, BSSE)"
+    },
+    {
+        "question": "Can I transfer my campus from fast?",
+        "answer": "You may change your campus (LHR->ISB) by giving Fast entry test and securing merit"
+    },
+    {
+        "question": "How often are courses updated with current industry trends?",
+        "answer": "FAST regularly updates its curriculum each academic year as part of its tentative study plans, accommodating evolving industry standards"
+    },
+    {
+        "question": "Does fast offer hybrid or online courses?",
+        "answer": "FAST does not offer fully online or hybrid degrees for its core BS programs. All courses, including labs, are delivered on-campus in person."
+    },
+    {
+        "question": "What is Fast attendance policy?",
+        "answer": "100% attendance is mandatory. Students must maintain at least 80% attendance; otherwise, they may be barred from finals."
+    },
+    {
+        "question": "What are sports activities in Fast?",
+        "answer": "FAST is equipped with a solid range of sports amenities, outdoor courts, indoor games and student-led societies organize both intra and inter-university competitions."
+    },
+    {
+        "question": "What is grading policy?",
+        "answer": "Fast has (absolute) grading policy."
+    },
+    {
+        "question": "Are double majors or major-minor combinations allowed?",
+        "answer": "FAST does not officially allow double majors or minors."
+    },
+    {
+        "question": "Does fast offer weekend classes?",
+        "answer": "FAST does not offer weekend classes for its programs. All classes and labs are conducted on-campus during weekdays only."
+    },
+    {
+        "question": "Are there Hostel facility in Fast Nuces Islamabad Campus?",
+        "answer": "No, There is no hostel facility in Islamabad campus."
+    },
+    {
+        "question": "Where is KDD lab in fast nuces?",
+        "answer": "KDD lab is in C-Block Sixth Floor (C-601)"
+    },
+    {
+        "question": "Who is current director of KDD lab?",
+        "answer": "Dr. Faisal Cheema is Director and PI of KDD lab"
+    },
+    {
+        "question": "Who is founder of KDD lab?",
+        "answer": "Dr. Kiffayat Ullah Khan is founder and Dr. Shujaat Hussain is Co-Founder of KDD Lab"
+    },
+    {
+        "question": "What is the difference between data science and deep learning?",
+        "answer": "Data Science is the broad field that involves analyzing, visualizing, and interpreting data using tools like statistics, Python, and machine learning.Deep Learning is a subset of machine learning that uses neural networks to solve complex problems."
+    },
+    {
+        "question": "What is KDD Lab?",
+        "answer": "The Knowledge Discovery & Data Science (KDD) Lab specializes in Data Science, Big Data, Analysis of Social Networks, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What is expertise of KDD lab team?",
+        "answer": "KDD Lab team specializes in following domains: (Data Science,Deep Learning,Machine Learning,Big Data)"
+    },
+    {
+        "question": "Who are the members of KDD lab?",
+        "answer": "Current members of KDD Lab are: Dr. Faisal Cheema, Mr. Shoaib Mehboob, Ms. Khadija Mehmood, Ms. Maryam Shahbaz"
+    },
+    {
+        "question": "Who is the founder of KDD Lab at FAST NUCES Islamabad?",
+        "answer": "Dr. Kiffayat Ullah Khan is the founder of KDD Lab at FAST NUCES Islamabad."
+    },
+    {
+        "question": "Who is NOT the founder of KDD Lab at FAST NUCES Islamabad?",
+        "answer": "Dr. Faisal Cheema is not the founder; he is the current Director and Principal Investigator. The founder is Dr. Kiffayat Ullah Khan."
+    },
+    {
+        "question": "Who is the co-founder of KDD Lab?",
+        "answer": "Dr. Shujaat Hussain is the co-founder of KDD Lab at FAST NUCES Islamabad."
+    },
+    {
+        "question": "Who is the current director of KDD Lab?",
+        "answer": "Dr. Faisal Cheema is the current Director and Principal Investigator of KDD Lab."
+    },
+    {
+        "question": "Where is the KDD Lab located within FAST NUCES Islamabad?",
+        "answer": "KDD Lab is located in C-Block, Sixth Floor (C-601) at FAST NUCES Islamabad."
+    },
+    {
+        "question": "What kind of research does KDD Lab conduct?",
+        "answer": "KDD Lab specializes in Data Science, Big Data, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Social Network Analysis."
+    },
+    {
+        "question": "Who are the current members of KDD Lab?",
+        "answer": "Current members include Dr. Faisal Cheema, Mr. Shoaib Mehboob, Ms. Khadija Mehmood, and Ms. Maryam Shahbaz."
+    },
+    {
+        "question": "Does FAST NUCES Islamabad offer hostel facilities?",
+        "answer": "No, the Islamabad campus of FAST NUCES does not offer hostel facilities."
+    },
+    {
+        "question": "What labs are available for internships at FAST Islamabad?",
+        "answer": "Students can apply for internships in labs such as KDD Lab, Data Insight Lab, Genesys Lab, PCN Lab, and AIM Lab."
+    },
+    {
+        "question": "What is the tuition fee per credit hour at FAST NUCES?",
+        "answer": "The current tuition fee is 11,000 PKR per credit hour."
+    },
+    {
+        "question": "How is KDD Lab at FAST different from other data labs?",
+        "answer": "KDD Lab focuses on real-world applications such as health informatics, e-recruitment, and social network analysis, using advanced ML and AI techniques."
+    },
+    {
+        "question": "Is KDD Lab involved in Generative AI?",
+        "answer": "Yes, some recent interns at KDD Lab have worked on Generative AI topics, indicating active research in the field."
+    },
+    {
+        "question": "What is the email address for contacting KDD Lab?",
+        "answer": "The email address is kdd.lab@nu.edu.pk"
+    },
+    {
+        "question": "Where is FAST NUCES Islamabad located?",
+        "answer": "The campus is located in H-11/4, Islamabad, Pakistan."
+    },
+    {
+        "question": "What is the full name of KDD Lab at FAST NUCES?",
+        "answer": "The full name is Knowledge Discovery and Data Science Lab (KDD Lab)."
+    },
+    {
+        "question": "Which university houses the KDD Lab?",
+        "answer": "The KDD Lab is located at the National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad campus."
+    },
+    {
+        "question": "What slogan does KDD Lab use to represent its work ethic?",
+        "answer": "The slogan of KDD Lab is 'EFFORTS DON'T BETRAY YOU.'"
+    },
+    {
+        "question": "What is the role of Dr. Kiffayat Ullah Khan in KDD Lab?",
+        "answer": "Dr. Kiffayat Ullah Khan is the Founder and Director of the KDD Lab."
+    },
+    {
+        "question": "What is the role of Dr. Shujaat Hussain in KDD Lab?",
+        "answer": "Dr. Shujaat Hussain is the Co-Founder and Head at the KDD Lab."
+    },
+    {
+        "question": "What kind of students are part of KDD Lab's project teams?",
+        "answer": "KDD Lab includes MS and BS students as part of its AI project teams alongside Data Scientists and Software Developers."
+    },
+    {
+        "question": "What algorithmic applications does the KDD Lab focus on?",
+        "answer": "KDD Lab focuses on applications involving social networks, image/video processing, health informatics, and large-scale databases."
+    },
+    {
+        "question": "What research methods are used in KDD Lab for data processing?",
+        "answer": "KDD Lab uses supervised, semi-supervised, and unsupervised learning approaches for solving data-centric problems."
+    },
+    {
+        "question": "Who are some researchers and assistants formerly affiliated with KDD Lab?",
+        "answer": "Alumni and contributors include Mohammad Daniyal Shaiq, Hira Sajid, Sarah Kiyani, Saeed Rehman, Talha Nazar, and Sidra Tariq."
+    },
+    {
+        "question": "What tools or methods does KDD Lab employ to manage Big Data?",
+        "answer": "KDD Lab uses advanced analytical methods and software systems capable of handling complex and large-scale datasets."
+    },
+    {
+        "question": "Does KDD Lab maintain any publication database?",
+        "answer": "As of now, the official lab dashboard lists 0 publications, though this may not reflect ongoing work."
+    },
+    {
+        "question": "Can you list technical domains under KDD Lab's expertise?",
+        "answer": "Domains include Data Science, Deep Learning, Machine Learning, Big Data, Artificial Intelligence, Social Network Analysis, and Image Processing."
+    },
+    {
+        "question": "What is the quote featured on KDD Lab's website?",
+        "answer": "“If you can't explain it simply, you don't understand it well enough.” — Albert Einstein."
+    },
+    {
+        "question": "hello",
+        "answer": "Hi there! How can I help you today?"
+    },
+    {
+        "question": "When was FAST-NUCES established, and what is its significance in Pakistan's educational landscape?",
+        "answer": "The National University of Computer and Emerging Sciences (FAST-NUCES) was established in 2000 as Pakistan's first multi-campus private sector university. It is recognized for its contributions to computer science and emerging technologies, with campuses in Islamabad, Karachi, Lahore, Peshawar, and Faisalabad."
+    },
+    {
+        "question": "What academic programs are offered at FAST-NUCES Islamabad?",
+        "answer": "FAST-NUCES Islamabad offers undergraduate, postgraduate, and doctoral programs in various disciplines, including Computer Science, Electrical Engineering, Civil Engineering, Artificial Intelligence, Data Science, Cyber Security, Business Administration, and Accounting & Finance."
+    },
+    {
+        "question": "Where is the Islamabad campus of FAST-NUCES located?",
+        "answer": "The Islamabad campus of FAST-NUCES is situated at A.K. Brohi Road, H-11/4, Islamabad, Pakistan."
+    },
+    {
+        "question": "What is the primary focus of the Knowledge Discovery & Data Science (KDD) Lab at FAST-NUCES Islamabad?",
+        "answer": "The KDD Lab specializes in areas such as Data Science, Big Data, Social Network Analysis, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It aims to conduct advanced and innovative research in these domains."
+    },
+    {
+        "question": "Who are the key personnel associated with the KDD Lab?",
+        "answer": "The KDD Lab was founded by Dr. Kiffayat Ullah Khan and co-founded by Dr. Shujaat Hussain. Dr. Faisal Cheema serves as the current director, leading a team of researchers and students in various projects."
+    },
+    {
+        "question": "What is the physical location of the KDD Lab within the FAST-NUCES Islamabad campus?",
+        "answer": "The KDD Lab is located in Room C-601, C-Block, at the FAST-NUCES Islamabad campus."
+    },
+    {
+        "question": "How can one contact the KDD Lab for collaborations or inquiries?",
+        "answer": "Interested individuals can reach out to the KDD Lab via email at kdd.lab@nu.edu.pk."
+    },
+    {
+        "question": "What is the motto of the KDD Lab?",
+        "answer": "The KDD Lab operates under the slogan: 'EFFORTS DON'T BETRAY YOU,' reflecting its commitment to diligent research and innovation."
+    },
+    {
+        "question": "What are some areas of expertise and research interests within the KDD Lab?",
+        "answer": "The lab's expertise encompasses Data Science, Deep Learning, Machine Learning, Big Data analytics, Social Network Analysis, Image Processing, and the development of AI-driven applications addressing real-world problems."
+    },
+    {
+        "question": "Are there any notable alumni or team members from the KDD Lab?",
+        "answer": "The KDD Lab comprises a diverse team, including MS and BS students, data scientists, and developers. Notable members include Shoaib Mehboob, Khadija Mehmood, Maryam Shahbaz, among others, who have contributed to various research projects and publications."
+    },
+    {
+        "question": "What kind of research outputs has the KDD Lab produced?",
+        "answer": "The KDD Lab has been involved in numerous research projects, resulting in publications across various domains such as AI, machine learning, and data science. Their work contributes to both academic knowledge and practical applications in the tech industry."
+    },
+    {
+        "question": "What is the official address of FAST-NUCES Islamabad campus?",
+        "answer": "The official address of FAST-NUCES Islamabad campus is A.K. Brohi Road, H-11/4, Islamabad, Pakistan."
+    },
+    {
+        "question": "What undergraduate programs are offered at FAST-NUCES Islamabad?",
+        "answer": "FAST-NUCES Islamabad offers undergraduate programs in various disciplines, including BS in Computer Science, Electrical Engineering, Civil Engineering, Artificial Intelligence, Data Science, Cyber Security, Business Administration, and Accounting & Finance."
+    },
+    {
+        "question": "What is the mission of the Knowledge Discovery & Data Science (KDD) Lab at FAST-NUCES Islamabad?",
+        "answer": "The KDD Lab aims to conduct advanced and innovative research in areas such as Data Science, Big Data, Social Network Analysis, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What are some of the research areas of the KDD Lab?",
+        "answer": "The KDD Lab specializes in Data Science, Big Data, Social Network Analysis, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining."
+    },
+    {
+        "question": "What are the contact details for FAST-NUCES Islamabad campus?",
+        "answer": "You can contact FAST-NUCES Islamabad campus at +92 51 111 128 128 or visit their official website at https://isb.nu.edu.pk."
+    },
+    {
+        "question": "What is the slogan of the KDD Lab?",
+        "answer": "The slogan of the KDD Lab is 'EFFORTS DON'T BETRAY YOU,' reflecting its commitment to diligent research and innovation."
+    },
+    {
+        "question": "Who are the key personnel associated with the KDD Lab?",
+        "answer": "The KDD Lab was founded by Dr. Kiffayat Ullah Khan and co-founded by Dr. Shujaat Hussain. Dr. Faisal Cheema serves as the current director, leading a team of researchers and students in various projects."
+    },
+    {
+        "question": "Where is the KDD Lab located within the FAST-NUCES Islamabad campus?",
+        "answer": "The KDD Lab is located in Room C-601, C-Block, at the FAST-NUCES Islamabad campus."
+    },
+    {
+        "question": "How can one contact the KDD Lab for collaborations or inquiries?",
+        "answer": "Interested individuals can reach out to the KDD Lab via email at kdd.lab@nu.edu.pk."
+    },
+    {
+        "question": "What is the primary focus of the Knowledge Discovery & Data Science (KDD) Lab at FAST-NUCES Islamabad?",
+        "answer": "The KDD Lab specializes in areas such as Data Science, Big Data, Social Network Analysis, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It aims to conduct advanced and innovative research in these domains."
+    },
+    {
+        "question": "What programming languages are commonly used in research projects at the KDD Lab?",
+        "answer": "Python is predominantly used at the KDD Lab for research and development, along with R for statistical analysis, and occasionally Java or Scala for big data processing."
+    },
+    {
+        "question": "How does the KDD Lab promote student involvement in research?",
+        "answer": "The lab actively encourages participation from both undergraduate and graduate students through internships, Final Year Projects, and assistantships on funded research projects."
+    },
+    {
+        "question": "What is the structure of a typical research team at the KDD Lab?",
+        "answer": "A typical research team consists of faculty mentors, research assistants (MS/PhD), undergraduate interns, and software developers, often collaborating across disciplines."
+    },
+    {
+        "question": "Does KDD Lab collaborate with international institutions?",
+        "answer": "Yes, KDD Lab has collaborated on research with international academic institutions and publishes its findings in globally recognized conferences and journals."
+    },
+    {
+        "question": "What tools and platforms are used for data processing in the KDD Lab?",
+        "answer": "The lab uses platforms like Apache Spark, TensorFlow, PyTorch, Hadoop, and Scikit-learn for large-scale machine learning and data analytics."
+    },
+    {
+        "question": "How does KDD Lab ensure ethical AI research?",
+        "answer": "KDD Lab adheres to ethical standards by anonymizing datasets, conducting fairness audits on algorithms, and complying with data privacy regulations."
+    },
+    {
+        "question": "What student societies at FAST-NUCES work closely with KDD Lab?",
+        "answer": "FAST Data Science Society (DSS) and ACM-FAST Chapter frequently collaborate with KDD Lab for workshops, hackathons, and research expos."
+    },
+    {
+        "question": "How can students apply for internships at KDD Lab?",
+        "answer": "Students can apply by submitting their CV and a statement of interest to the lab’s official email or through university internship portals during the open call periods."
+    },
+    {
+        "question": "What are the top journals or conferences where KDD Lab has published?",
+        "answer": "Notable venues include IEEE Access, Springer Journal of Big Data, and conferences like KDD, NeurIPS, and the International Conference on Data Science (ICDS)."
+    },
+    {
+        "question": "What are the future goals of KDD Lab?",
+        "answer": "The lab aims to expand its focus into generative AI, real-time analytics, and multidisciplinary AI applications in agriculture, healthcare, and education."
+    },
+    {
+        "question": "How does the FAST-NUCES Islamabad campus support research labs like KDD?",
+        "answer": "The university provides high-performance computing resources, dedicated lab space, funding opportunities, and administrative support for national and international collaborations."
+    },
+    {
+        "question": "What is unique about FAST-NUCES's approach to combining academia and industry?",
+        "answer": "FAST maintains strong ties with the tech industry through curriculum alignment, advisory boards, sponsored projects, and job placement drives."
+    },
+    {
+        "question": "Are any courses at FAST co-taught or guest-lectured by KDD Lab researchers?",
+        "answer": "Yes, several advanced AI and data science courses are taught or co-supervised by KDD-affiliated faculty, integrating research insights into the curriculum."
+    },
+    {
+        "question": "What is the primary focus of the Knowledge Discovery & Data Science (KDD) Lab at FAST-NUCES Islamabad?",
+        "answer": "The KDD Lab specializes in areas such as Data Science, Big Data, Social Network Analysis, Artificial Intelligence, Machine Learning, Deep Learning, Image Processing, Data Warehousing, and Data Mining. It aims to conduct advanced and innovative research in these domains."
+    },
+    {
+        "question": "Who are the key personnel associated with the KDD Lab?",
+        "answer": "The KDD Lab was founded by Dr. Kiffayat Ullah Khan and co-founded by Dr. Shujaat Hussain. Dr. Faisal Cheema serves as the current director, leading a team of researchers and students in various projects."
+    },
+    {
+        "question": "What is the physical location of the KDD Lab within the FAST-NUCES Islamabad campus?",
+        "answer": "The KDD Lab is located in Room C-601, C-Block, at the FAST-NUCES Islamabad campus."
+    },
+    {
+        "question": "How can one contact the KDD Lab for collaborations or inquiries?",
+        "answer": "Interested individuals can reach out to the KDD Lab via email at kdd.lab@nu.edu.pk."
+    },
+    {
+        "question": "What is the slogan of the KDD Lab?",
+        "answer": "The KDD Lab operates under the slogan: 'EFFORTS DON'T BETRAY YOU,' reflecting its commitment to diligent research and innovation."
+    },
+    {
+        "question": "What are some areas of expertise and research interests within the KDD Lab?",
+        "answer": "The lab's expertise encompasses Data Science, Deep Learning, Machine Learning, Big Data analytics, Social Network Analysis, Image Processing, and the development of AI-driven applications addressing real-world problems."
+    },
+    {
+        "question": "Are there any notable alumni or team members from the KDD Lab?",
+        "answer": "The KDD Lab comprises a diverse team, including MS and BS students, data scientists, and developers. Notable members include Shoaib Mehboob, Khadija Mehmood, Maryam Shahbaz, among others, who have contributed to various research projects and publications."
+    },
+    {
+        "question": "What kind of research outputs has the KDD Lab produced?",
+        "answer": "The KDD Lab has been involved in numerous research projects, resulting in publications across various domains such as AI, machine learning, and data science. Their work contributes to both academic knowledge and practical applications in the tech industry."
+    },
+    {
+        "question": "What is the official address of FAST-NUCES Islamabad campus?",
+        "answer": "The official address of FAST-NUCES Islamabad campus is A.K. Brohi Road, H-11/4, Islamabad, Pakistan."
+    },
+    {
+        "question": "What undergraduate programs are offered at FAST-NUCES Islamabad?",
+        "answer": "FAST-NUCES Islamabad offers undergraduate programs in various disciplines, including BS in Computer Science, Electrical Engineering, Civil Engineering, Artificial Intelligence, Data Science, Cyber Security, Business Administration, and Accounting & Finance."
+    },
+    {
+        "question": "What are the contact details for FAST-NUCES Islamabad campus?",
+        "answer": "You can contact FAST-NUCES Islamabad campus at +92 51 111 128 128 or visit their official website at https://isb.nu.edu.pk."
+    },
+    {
+        "question": "What programming languages are commonly used in research projects at the KDD Lab?",
+        "answer": "Python is predominantly used at the KDD Lab for research and development, along with R for statistical analysis, and occasionally Java or Scala for big data processing."
+    },
+    {
+        "question": "How does the KDD Lab promote student involvement in research?",
+        "answer": "The lab actively encourages participation from both undergraduate and graduate students through internships, Final Year Projects, and assistantships on funded research projects."
+    },
+    {
+        "question": "What is the structure of a typical research team at the KDD Lab?",
+        "answer": "A typical research team consists of faculty mentors, research assistants (MS/PhD), undergraduate interns, and software developers, often collaborating across disciplines."
+    },
+    {
+        "question": "Does KDD Lab collaborate with international institutions?",
+        "answer": "Yes, KDD Lab has collaborated on research with international academic institutions and publishes its findings in globally recognized conferences and journals."
+    },
+    {
+        "question": "What tools and platforms are used for data processing in the KDD Lab?",
+        "answer": "The lab uses platforms like Apache Spark, TensorFlow, PyTorch, Hadoop, and Scikit-learn for large-scale machine learning and data analytics."
+    },
+    {
+        "question": "How does KDD Lab ensure ethical AI research?",
+        "answer": "KDD Lab adheres to ethical standards by anonymizing datasets, conducting fairness audits on algorithms, and complying with data privacy regulations."
+    },
+    {
+        "question": "What student societies at FAST-NUCES work closely with KDD Lab?",
+        "answer": "FAST Data Science Society (FDSS) and ACM-FAST Chapter frequently collaborate with KDD Lab for workshops, hackathons, and research expos."
+    },
+    {
+        "question": "How can students apply for internships at KDD Lab?",
+        "answer": "Students can apply by submitting their CV and a statement of interest to the lab’s official email or through university internship portals during the open call periods."
+    },
+    {
+        "question": "What are the top journals or conferences where KDD Lab has published?",
+        "answer": "Notable venues include IEEE Access, Springer Journal of Big Data, and conferences like KDD, NeurIPS, and the International Conference on Data Science (ICDS)."
+    },
+    {
+        "question": "What are the future goals of KDD Lab?",
+        "answer": "The lab aims to expand its focus into generative AI, real-time analytics, and multidisciplinary AI applications in agriculture, healthcare, and education."
+    },
+    {
+        "question": "How does the FAST-NUCES Islamabad campus support research labs like KDD?",
+        "answer": "The university provides high-performance computing resources, dedicated lab space, funding opportunities, and administrative support for national and international collaborations."
+    },
+    {
+        "question": "What is unique about FAST-NUCES's approach to combining academia and industry?",
+        "answer": "FAST maintains strong ties with the tech industry through curriculum alignment, advisory boards, sponsored projects, and job placement drives."
+    },
+    {
+        "question": "Are any courses at FAST co-taught or guest-lectured by KDD Lab researchers?",
+        "answer": "Yes, several advanced AI and data science courses are taught or co-supervised by KDD-affiliated faculty, integrating research insights into the curriculum."
+    },
+    {
+        "question": "What is the purpose of the FAST-Resources GitHub repository?",
+        "answer": "The FAST-Resources repository serves as a centralized collection of academic resources for students of FAST-NUCES. It includes course materials, books, past papers, cheat sheets, and tools useful for various departments."
+    },
+    {
+        "question": "Which FAST-NUCES campus is the FAST-Resources repository intended for?",
+        "answer": "The repository is designed primarily for FAST-NUCES students across all campuses, but much of the content appears to be aligned with the Islamabad campus curriculum."
+    },
+    {
+        "question": "What departments are covered in the FAST-Resources GitHub repository?",
+        "answer": "The repository includes resources for multiple departments including Computer Science, Electrical Engineering, Business Administration, and Civil Engineering."
+    },
+    {
+        "question": "What types of files and content are included in the FAST-Resources repository?",
+        "answer": "The repository contains folders of categorized study materials such as slides, textbooks, solved quizzes, midterms and finals, cheat sheets, programming exercises, and project templates."
+    },
+    {
+        "question": "Is there a way to contribute to the FAST-Resources GitHub repository?",
+        "answer": "Yes, the repository encourages community contributions. Users can fork the repo, add or update content, and create pull requests to have their materials added."
+    },
+    {
+        "question": "What is the license of the FAST-Resources repository?",
+        "answer": "The repository is licensed under the MIT License, allowing users to use, copy, modify, merge, and distribute the content freely with attribution."
+    },
+    {
+        "question": "Does the FAST-Resources repository include tools or utilities for developers?",
+        "answer": "Yes, the repository has a section called 'Developer Tools' that includes cheat sheets for Git, Markdown, LaTeX, Python, and other programming utilities."
+    },
+    {
+        "question": "Are there resources for Final Year Projects (FYPs) in the FAST-Resources repository?",
+        "answer": "Yes, the repository provides guidance and documents for Final Year Projects including past project reports, templates, and tips for report writing and presentations."
+    },
+    {
+        "question": "Does the FAST-Resources GitHub repo include links to FAST societies or clubs?",
+        "answer": "Yes, it lists and sometimes links to student societies such as FAST Computing Society, FAST Data Science Society, and ACM Student Chapter."
+    },
+    {
+        "question": "Can this repository help in course registration and degree planning at FAST?",
+        "answer": "Yes, the repository includes course outlines, elective suggestions, and planning guides to help students navigate course registration and academic planning."
+    },
+    {
+        "question": "What type of content is available for the course 'Data Structures' in the FAST-Resources GitHub repository?",
+        "answer": "The 'Data Structures' folder includes past papers, handouts, lecture slides, and implementation exercises focused on stacks, queues, trees, hashing, and sorting algorithms."
+    },
+    {
+        "question": "Does the FAST-Resources repository provide materials for 'Database Systems'?",
+        "answer": "Yes, the 'Database Systems' folder contains SQL scripts, ERD diagrams, past papers, and notes covering relational algebra, normalization, transactions, and indexing."
+    },
+    {
+        "question": "Is there content for the course 'Artificial Intelligence' in the FAST-Resources GitHub?",
+        "answer": "The repository includes AI-related materials such as slides, assignment solutions, and notes on search algorithms, knowledge representation, and machine learning fundamentals."
+    },
+    {
+        "question": "What programming-focused courses are supported in the FAST-Resources repo?",
+        "answer": "Programming-related courses include Programming Fundamentals, Object-Oriented Programming, and Advanced Programming, with resources like coding exercises, lab tasks, and project templates."
+    },
+    {
+        "question": "Are there resources for 'Operating Systems' in the FAST-Resources repository?",
+        "answer": "Yes, the repository provides content on memory management, CPU scheduling, file systems, and synchronization mechanisms, along with solved quizzes and lab assignments."
+    },
+    {
+        "question": "Does the FAST-Resources repo provide help for midterm and final exam preparation?",
+        "answer": "Almost every course folder includes solved past papers, quizzes, and review slides specifically designed to help students prepare for midterms and final exams."
+    },
+    {
+        "question": "What kind of materials are available for the course 'Computer Networks'?",
+        "answer": "The Computer Networks section includes lecture notes, protocol diagrams, network layer concepts, quizzes, and lab configurations using Wireshark and socket programming."
+    },
+    {
+        "question": "Are elective courses like 'Data Science' included in the FAST-Resources repo?",
+        "answer": "Yes, electives such as 'Data Science', 'Cyber Security', and 'Blockchain' are represented, offering notebooks, cheat sheets, course summaries, and project outlines."
+    },
+    {
+        "question": "Is Software Engineering covered in the FAST-Resources GitHub repository?",
+        "answer": "Yes, the Software Engineering folder includes case studies, UML diagrams, software process models, and documentation templates used in semester-long projects."
+    },
+    {
+        "question": "How are first-year CS students supported by the FAST-Resources GitHub repo?",
+        "answer": "Introductory courses like Programming Fundamentals and Discrete Structures provide students with foundational tutorials, exam preparation material, and guided assignments."
+    },
+    {
+        "question": "What kind of resources are available in the FAST-Resources GitHub for Final Year Projects?",
+        "answer": "The FYP section provides report templates, formatting guidelines, evaluation rubrics, presentation slides, and sample completed projects to guide students through their final year research."
+    },
+    {
+        "question": "Does the FAST-Resources repository include an FYP proposal format?",
+        "answer": "Yes, the repository includes standardized proposal templates that cover project motivation, objectives, methodology, timelines, and resource requirements."
+    },
+    {
+        "question": "Are there any example FYP reports available in the repository?",
+        "answer": "Yes, the repository contains anonymized example reports from past student projects which can be used as references for formatting, content structure, and citation practices."
+    },
+    {
+        "question": "What tools are recommended in the FYP documentation for creating diagrams and reports?",
+        "answer": "Tools such as Microsoft Visio, Lucidchart, Draw.io for diagrams and Overleaf or MS Word for documentation are recommended in the FYP resources."
+    },
+    {
+        "question": "Is there an FYP timeline or milestone checklist in the repository?",
+        "answer": "Yes, the FYP folder includes a semester-wise milestone plan that outlines expected deliverables such as proposal, SRS, design, midterm and final evaluation presentations."
+    },
+    {
+        "question": "What type of evaluation criteria are used for grading Final Year Projects?",
+        "answer": "Evaluation rubrics include criteria such as innovation, technical depth, implementation quality, documentation, presentation skills, and teamwork."
+    },
+    {
+        "question": "Does the repository include presentation slides or pitch decks for FYPs?",
+        "answer": "Yes, it offers sample presentation slides used for midterm and final evaluations to help students build their own pitch decks."
+    },
+    {
+        "question": "Are there any guidelines on how to select a good FYP topic?",
+        "answer": "The resources provide tips on identifying industry-relevant, technically feasible, and research-worthy FYP topics that match student skill sets and supervisor interests."
+    },
+    {
+        "question": "Is there any information about FYP documentation best practices?",
+        "answer": "Yes, students are guided on version control, formatting standards, citation rules, and how to organize content into SRS, SDS, and final report structures."
+    },
+    {
+        "question": "Can students find information on FYP viva or defense preparation in the repository?",
+        "answer": "Yes, the FYP folder includes checklists and example Q&A to prepare students for viva voce sessions conducted at the end of the project lifecycle."
+    },
+    {
+        "question": "What developer tools are included in the FAST-Resources GitHub repository?",
+        "answer": "The repository includes tools like Git, GitHub, LaTeX, Markdown, Postman, Python, VS Code shortcuts, and general CLI commands—all bundled as cheat sheets and guides."
+    },
+    {
+        "question": "Is there a Git and GitHub cheatsheet in the FAST-Resources repo?",
+        "answer": "Yes, the Developer-Tools section includes a Git cheatsheet covering basic to advanced commands such as clone, commit, push, pull, branching, merging, and conflict resolution."
+    },
+    {
+        "question": "Does the FAST-Resources repository provide guidance on using LaTeX?",
+        "answer": "Yes, it provides LaTeX syntax guides and templates for creating well-formatted technical reports, academic articles, and Final Year Project documentation."
+    },
+    {
+        "question": "Are there any resources to help students use Markdown effectively?",
+        "answer": "A dedicated Markdown cheatsheet is available that explains headings, links, code blocks, tables, and formatting useful for GitHub README files and documentation."
+    },
+    {
+        "question": "What is included in the Python cheatsheet in the Developer-Tools section?",
+        "answer": "The Python cheatsheet includes syntax examples for loops, conditionals, data structures, functions, and common modules like NumPy, Pandas, and Matplotlib."
+    },
+    {
+        "question": "Is Postman covered in the FAST-Resources Developer-Tools section?",
+        "answer": "Yes, there is a Postman API testing guide explaining how to structure requests, use variables, automate tests, and handle authentication headers."
+    },
+    {
+        "question": "Does the Developer-Tools folder include command line utilities?",
+        "answer": "Yes, there is a CLI cheatsheet with commands for Linux and Windows terminals including navigation, file handling, environment variables, and process monitoring."
+    },
+    {
+        "question": "Are there VS Code tips or shortcuts included in the repo?",
+        "answer": "Yes, the repository includes a list of VS Code shortcuts and extensions for productivity enhancement, debugging, code navigation, and version control integration."
+    },
+    {
+        "question": "Can these developer tools help with version-controlled collaboration?",
+        "answer": "Absolutely. The Git and GitHub guides help students work in teams using branches, pull requests, forks, and issues for organized collaboration on projects."
+    },
+    {
+        "question": "Are the tools suitable for first-year or non-CS students?",
+        "answer": "Yes, the materials are beginner-friendly and can support students from other departments like EE and Business who need basic developer skills for coursework or projects."
+    },
+    {
+        "question": "What does KDD stand for in the context of the research lab at FAST-NUCES Islamabad?",
+        "answer": "KDD stands for Knowledge Discovery and Data Science. The KDD Lab at FAST-NUCES Islamabad focuses on discovering patterns from large-scale data using machine learning, data mining, and AI techniques."
+    },
+    {
+        "question": "What is the vision of the KDD Lab at FAST Islamabad?",
+        "answer": "The KDD Lab envisions building real-world intelligent systems that use machine learning and data science to solve interdisciplinary problems in social science, economics, healthcare, and natural sciences."
+    },
+    {
+        "question": "What is the mission of the KDD Lab?",
+        "answer": "The mission of the KDD Lab is to drive fundamental and applied research in knowledge discovery, data mining, and machine learning to address national and international challenges using AI-driven systems."
+    },
+    {
+        "question": "Which interdisciplinary domains does the KDD Lab focus on?",
+        "answer": "The KDD Lab works across various domains including bioinformatics, e-government systems, healthcare analytics, business intelligence, and social network mining."
+    },
+    {
+        "question": "What kind of team composition does the KDD Lab maintain?",
+        "answer": "The lab includes faculty, MS and BS students, research assistants, and developers working collaboratively on government-funded and academic research projects."
+    },
+    {
+        "question": "How does the KDD Lab support undergraduate students?",
+        "answer": "The lab provides opportunities for undergraduates to work on research projects, contribute to publications, develop prototypes, and participate in national-level competitions and grants."
+    },
+    {
+        "question": "What are the lab's main objectives for student involvement?",
+        "answer": "The lab aims to equip students with practical experience in research, encourage scientific publication, foster innovation, and prepare them for graduate studies or tech entrepreneurship."
+    },
+    {
+        "question": "How is the research output of the KDD Lab disseminated?",
+        "answer": "The KDD Lab publishes in international journals, presents at conferences, files patents, and develops real-world AI systems for deployment in industry and public sectors."
+    },
+    {
+        "question": "What is the FAST Data Science Society (FDSS) and its primary mission?",
+        "answer": "Established in 2021, FDSS is FAST-NUCES Islamabad's first student-run Data Science society. Its mission is to bridge the gap between disciplines, fostering a community where students can explore and excel in data science through talks, teaching, and research initiatives."
+    },
+    {
+        "question": "What was the 'DataVerse' initiative launched by FDSS?",
+        "answer": "Launched in November 2023, DataVerse is a series of workshops and discussions focused on advanced data science skills. It featured expert-led sessions on tools like Excel, Python, SQL, and Power BI, attracting over 150 participants and promoting skill-building and networking."
+    },
+    {
+        "question": "Can you provide details about the 'DataCon' event organized by FDSS?",
+        "answer": "Held in May 2024, DataCon was a significant event that brought together professionals and students passionate about data science. It attracted over 150 delegates from 12 universities and featured sessions on career paths, interview techniques, and data-driven business strategies."
+    },
+    {
+        "question": "What was the focus of the 'DataQuest' event by FDSS?",
+        "answer": "Scheduled for December 2023, DataQuest was a competitive event aimed at enhancing data science skills. It included a SQL Challenge and Data Visualization Competition, with over 70 teams participating, and featured a workshop on Deep Ensemble Learning in Computer Vision."
+    },
+    {
+        "question": "How does FDSS collaborate with industry partners for student development?",
+        "answer": "FDSS partners with organizations like DataCamp to provide students with access to online courses in Python, R, SQL, and more, facilitating continuous learning and skill enhancement."
+    },
+    {
+        "question": "What opportunities does FDSS offer for students interested in data science?",
+        "answer": "FDSS offers workshops, hackathons, and training sessions aimed at teaching data science skills and tools to members and the wider community, promoting ethical and impactful data science practices."
+    },
+    {
+        "question": "How can students get involved with FDSS activities?",
+        "answer": "Students can participate in FDSS events by registering through their official website or social media platforms. They can also join as members to stay updated on upcoming workshops and competitions."
+    },
+    {
+        "question": "What is the relationship between FDSS and the KDD Lab at FAST-NUCES?",
+        "answer": "FDSS and the KDD Lab collaborate on various initiatives, including workshops and research projects, to provide students with practical experience in data science and machine learning applications."
+    },
+    {
+        "question": "Are there any notable achievements of FDSS in promoting data science education?",
+        "answer": "FDSS has successfully organized multiple events like DataVerse, DataCon, and DataQuest, attracting participants from various universities and fostering a strong data science community on campus."
+    },
+    {
+        "question": "Where can I find more information about FDSS events and initiatives?",
+        "answer": "Detailed information about FDSS events and initiatives can be found on their official website: https://fdssisb.com/ and their LinkedIn page: https://pk.linkedin.com/company/fdssisb."
+    },
+    {
+        "question": "Can you provide a detailed paragraph about the KDD Lab at FAST-NUCES Islamabad?",
+        "answer": "The Knowledge Discovery & Data Science (KDD) Lab at FAST-NUCES Islamabad is a pioneering research center specializing in data science, machine learning, and artificial intelligence. Founded by Dr. Kiffayat Ullah Khan and currently directed by Dr. Faisal Cheema, the lab works on interdisciplinary research projects involving predictive analytics, resume parsing, and social network mining. Funded by national organizations like NCAI and HEC, the lab houses undergraduate and postgraduate researchers working on impactful AI solutions. Located in Room C-601, C Block, the lab also collaborates with student bodies like the FAST Data Science Society."
+    },
+    {
+        "question": "what grant did the lab win in march 2021",
+        "answer": "The lab won a Rs. 14.665 Million grant from the National Center for Artificial Intelligence (NCAI) in March 2021."
+    },
+    {
+        "question": "who funded the e‑recruitment project",
+        "answer": "This project is funded by the National Center for Artificial Intelligence (NCAI)."
+    },
+    {
+        "question": "how much funding was awarded",
+        "answer": "The project received PKR 14.665 Million in funding."
+    },
+    {
+        "question": "what are the dates of the project",
+        "answer": "The project runs from March 2021 to September 2022."
+    },
+    {
+        "question": "what is the title of the project",
+        "answer": "“Re‑Designing E‑Recruitment using AI for Temporal Analysis.”"
+    },
+    {
+        "question": "what is the goal of the project",
+        "answer": "The goal is to develop AI‑based algorithms that help e‑recruiters efficiently select the right candidates for the right jobs, ensuring deserving talent gets interview opportunities."
+    },
+    {
+        "question": "who is working on the project",
+        "answer": "A team of data scientists, software developers, and MS and BS students is developing the project."
+    },
+    {
+        "question": "what are the main features of the project",
+        "answer": "Key features include automated resume parsing, candidate skill enrichment, an efficient ranking algorithm, and automated feature‑importance based on user‑feedback trends."
+    },
+    {
+        "question": "what is automated resume parsing",
+        "answer": "It automatically extracts structured information—like skills, education, and experience—from resumes using AI techniques."
+    },
+    {
+        "question": "what does candidate skill enrichment mean",
+        "answer": "It augments a candidate’s profile with inferred or normalized skills, making comparisons more accurate."
+    },
+    {
+        "question": "how does the ranking algorithm work",
+        "answer": "The algorithm ranks candidates based on relevance to job requirements, using temporal analysis of user feedback to improve over time."
+    },
+    {
+        "question": "what is feature importance based on trends",
+        "answer": "It automatically identifies which resume features (e.g., specific skills or experiences) matter most, by analyzing trends in recruiter feedback."
+    },
+    {
+        "question": "when did the project start and end",
+        "answer": "It started in March 2021 and concluded in September 2022."
+    },
+    {
+    "question": "how many fun facts are there about KDD FAST-NUCES",
+    "answer": "Here are some fun facts about KDD FAST-NUCES!"
+  },
+  {
+    "question": "total fyps",
+    "answer": "KDD FAST-NUCES has supported a total of 20 Final Year Projects (FYPs)."
+  },
+  {
+    "question": "how many funded projects",
+    "answer": "There are 3 funded projects currently running at KDD FAST-NUCES."
+  },
+  {
+    "question": "number of team members",
+    "answer": "The KDD FAST-NUCES team comprises 8 core members."
+  },
+  {
+    "question": "how many publications",
+    "answer": "To date, KDD FAST-NUCES has produced 13 publications."
+  },
+  {
+    "question": "total alumni",
+    "answer": "KDD FAST-NUCES has 5 alumni who have graduated from our programs."
+  },
+  {
+    "question": "fun facts about kdd fast nuces",
+    "answer": "Did you know? KDD FAST-NUCES has guided 20 FYPs, overseen 3 funded projects, and produced 13 research publications with a dedicated team of 8 members and 5 alumni!"
+  },
+  {
+    "question": "What is Mulazmat?",
+    "answer": "The main idea of this project is to develop Artificial Intelligence based algorithms to assist E-Recruiters to efficiently select right candidates for right jobs."
+  },
+  {
+    "question": "Courses offered for undergraduate|bachelors programs?",
+    "answer": "BSAI, BSDS, BSCS, BSSE, BBA, BSFintech, BSEE, BSCYS"
+  },
+  {
+    "question": "Courses offered for graduate|masters programs?",
+    "answer": "MSAI, MSDS, MSCS, MSSE, MBA, MSEE"
+  },
+  {
+    "question": "What are timings for undergraduate|bachelors classes",
+    "answer": "Undergraduate classes are in morning."
+  },
+  {
+    "question": "What are timings for graduate|masters classes",
+    "answer": "Evening classes are held."
+  },
+  {
+    "question": "How long is regular semester",
+    "answer": "Regular semester consists of 16 weeks"
+  },
+  {
+    "question": "How long is summer semester",
+    "answer": "Summer semester consists of 8 weeks"
+  },
+  {
+    "question": "How long are summer internships",
+    "answer": "Summer Internships consists of 8 weeks"
+  },
+  {
+    "question": "How can i contact KDD lab?",
+    "answer": "You can mail at kdd.lab@nu.edu.pk"
+  },
+  {
+    "question": "What are timings of KDD lab?",
+    "answer": "You can mail at kdd.lab@nu.edu.pk to inquire timings"
+  }
+]
