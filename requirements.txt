@@ -1,7 +1,8 @@
-streamlit
-flask
-speechrecognition
-pyaudio
-google-cloud-aiplatform
-pyttsx3
-requests
+beautifulsoup4==4.13.4
+faiss_cpu==1.11.0
+gemini_api==0.1.6
+numpy==2.3.1
+Requests==2.32.4
+sentence_transformers==5.0.0
+streamlit==1.46.1
+torch==2.7.1
